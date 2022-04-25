@@ -11,6 +11,7 @@
 ## Python
 
 - [获取当前电脑的 ip(局域网和公网)](python/get_ip.py)
+- [python cheatsheet](python/python_cheatsheet.md)
 
 ## 贡献
 
