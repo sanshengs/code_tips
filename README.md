@@ -1,6 +1,4 @@
-<p align="center">
-<img src="asserts/logo.jpg"  />
-</p>
+<p align="center"><img src="asserts/logo.jpg"/></p>
 
 # python useful demos
 
@@ -11,7 +9,8 @@
 ## Python
 
 - [获取当前电脑的 ip(局域网和公网)](python/get_ip.py)
-- [python cheatsheet](python/python_cheatsheet.md)
+- [json和dict转换](python/json_demo.py)
+- [python cheatsheet](https://gto76.github.io/python-cheatsheet/index.html?theme=dark3)
 
 ## 贡献
 
